@@ -86,7 +86,10 @@ or [![Gmail Badge](https://img.shields.io/badge/-aman.atg001@gmail.com-c14438?st
 and be a part of my journey... and See if I can make it or not!
 
 ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ekamib&show_icons=true&theme=gotham" alt="ekamib" />
 
 <hr/>
 
-⭐️ From [aman-atg](https://github.com/aman-atg)
+
