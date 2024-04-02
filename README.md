@@ -36,13 +36,13 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working @Learnifii (React.js Dev.)
-- 🌱 I’m currently learning React-Native and Animation
-- 🤔 I’m looking for help for my future MERN projects
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
+- 👨🏽‍💻 I’m currently trading 
+- 🌱 I’m currently learning ZKP ( zero proof knowledge ) 
+- 🤔 I’m looking for help for ZKP projects 
+- 💬 Ask me about anything related to blockchain(BTC, ETH) solidity.(After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 6am 🙃
-- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Thinking about writing blogs 🤔🤖..
-- 📫 How to reach me: aman.atg001@gmail.com
+- 🎿 Hobbies other than coding : Reading blogs or about History , Play poker , Thinking about start up 🤔🤖..
+- 📫 How to reach me: elvisgustavop03@gmail.com 
 - 📝 [Resume](https://www.canva.com/design/DAD8JlnPFhw/3v-OrtVl-UETeMGVfscAgQ/view?) (old)
 
 ### 🛠️ Languages and Tools:
