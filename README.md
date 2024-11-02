@@ -23,9 +23,9 @@
 <br/>
 
 <p>
-A Full Stack Blockchain  Developer 🚀 from Honduras.
+A Full Stack Blockchain  Developer Researcher y Trader 🚀 from Honduras.
 <br/>
-Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
+Stacks I have worked with : solidity  , css  , Next+React.
 <br/>  
 Things I have recently experimented with : socket.io, react-cli , commander, inquirer , gsap(animation) and a lot of other ui-libs...
 <br/>
