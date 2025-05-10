@@ -23,7 +23,7 @@
 <br/>
 
 <p>
-A Full Stack Blockchain engineer Researcher y Trader 🚀 from Honduras.
+A Full Stack Blockchain engineer, Researcher y Trader 🚀 from Honduras.
 <br/>
 Stacks I have worked with : solidity  , css  , Next+React.
 <br/>  
