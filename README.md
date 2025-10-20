@@ -80,13 +80,6 @@ If you’d like to connect or collaborate, here are a few ways 👇
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekamib&show_icons=true&theme=gotham" alt="Elvis Paz Stats" />
-</p>
-
----
 
 
 
