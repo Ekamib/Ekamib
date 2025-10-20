@@ -80,11 +80,21 @@ If you’d like to connect or collaborate, here are a few ways 👇
 
 ---
 
+## 📊 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ekamib&show_icons=true&theme=gotham" alt="Elvis Paz GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekamib&theme=gotham" alt="GitHub Streak" />
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ekamib&show_icons=true&theme=gotham" alt="ekamib" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekamib&layout=compact&theme=gotham" alt="Top Languages" />
+</p>
 
-<hr/>
+---
 
-
+> _“Code the market before the market codes you.”_  
+> — **Elvis Paz**
