@@ -88,8 +88,6 @@ If you’d like to connect or collaborate, here are a few ways 👇
 
 ---
 
-> _“Code the market before the market codes you.”_  
-> — **Elvis Paz**
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ekamib&show_icons=true&theme=gotham" alt="ekamib" />
