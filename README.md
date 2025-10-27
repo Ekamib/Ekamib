@@ -21,7 +21,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+
 I’m a **Tech-Trader & Blockchain Engineer** from 🇭🇳 Honduras.  
 I design and automate trading systems for both **centralized and decentralized markets**, combining financial analysis, algorithmic trading, and smart contract development.
 
