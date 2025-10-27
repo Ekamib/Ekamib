@@ -62,10 +62,9 @@ I design and automate trading systems for both **centralized and decentralized m
 
 ## 🚀 Featured Projects  
 
-- **BTC/USDT Futures Bot** – Automated trading system using Python + Binance API  
-- **Tesla Quant Bot** – Stock trading automation with sentiment filters  
-- **Aave Liquidation Engine** – Smart contract for automatic liquidation in DeFi  
-- **Expertia Accounting System** – Full-stack ERP with Spring Boot + React  
+- **BTC/USDT Futures Bot** –
+- **Ofanim konta**
+- ** Melon Group**
 
 ---
 
