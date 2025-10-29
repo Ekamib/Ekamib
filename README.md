@@ -70,8 +70,6 @@ I design and automate trading systems for both **centralized and decentralized m
 
 ## 💡 Next Steps  
 
-If you’d like to connect or collaborate, here are a few ways 👇  
-
 - 💸 **Support my work** — [Buy me a Coffee](https://www.buymeacoffee.com/elvispazx)  
 - 🤝 **Mentorship / Collab** — [Telegram](https://t.me/elvispazx)  
 - 💼 **Job Offers / Freelance** — [LinkedIn](https://www.linkedin.com/in/elvis-paz/)  
