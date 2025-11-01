@@ -68,14 +68,7 @@ I design and automate trading systems for both **centralized and decentralized m
 
 ---
 
-## 💡 Next Steps  
 
-- 💸 **Support my work** — [Buy me a Coffee](https://www.buymeacoffee.com/elvispazx)  
-- 🤝 **Mentorship / Collab** — [Telegram](https://t.me/elvispazx)  
-- 💼 **Job Offers / Freelance** — [LinkedIn](https://www.linkedin.com/in/elvis-paz/)  
-- 🐦 **Follow me on Twitter** — [@elvispazx](https://twitter.com/elvispazx)  
-
----
 
 ## 📊 GitHub Stats  
 
