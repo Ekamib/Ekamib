@@ -25,9 +25,7 @@
 I’m a **Tech-Trader & Blockchain Engineer** from 🇭🇳 Honduras.  
 I design and automate trading systems for both **centralized and decentralized markets**, combining financial analysis, algorithmic trading, and smart contract development.
 
-💼 I’ve worked with: **Solidity, Java, Python, Spring Boot, React, and Web3.js**  
-🔬 I’m currently experimenting with **AI-driven trading strategies**, **on-chain data**, and **MEV bots**.  
-🚀 My goal: Build an **automated trading ecosystem** that scales across crypto and traditional markets.
+
 
 ---
 
