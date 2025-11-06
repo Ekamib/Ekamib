@@ -42,7 +42,7 @@ I design and automate trading systems for both **centralized and decentralized m
 
 ---
 
-## 🧠 Tech Stack  
+## 🧠   
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
