@@ -60,9 +60,7 @@ I design and automate trading systems for both **centralized and decentralized m
 
 ## 🚀 Featured Projects  
 
-- **BTC/USDT Futures Bot** –
-- **Ofanim konta**
-- ** Melon Group**
+
 
 ---
 
