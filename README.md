@@ -33,10 +33,7 @@ I design and automate trading systems for both **centralized and decentralized m
 
 - 👨🏽‍💻 I’m currently trading and building automated trading bots.  
 - 🌱 Learning Zero-Knowledge Proofs (ZKP) and DeFi architecture.  
-- 🧠 I enjoy testing new strategies and backtesting them with real data.  
-- 💬 Ask me about **blockchain**, **smart contracts**, or **risk management**.  
-- 🎯 Fun fact: I usually code until 6 AM 🧃  
-- 🧩 Hobbies: Reading about history, poker, and startup culture.  
+  
 - 📫 Reach me at **elvisgustavop03@gmail.com**  
 - 📝 [Resume](https://www.canva.com/design/DAD8JlnPFhw/3v-OrtVl-UETeMGVfscAgQ/view?) (in progress)
 
