@@ -1,4 +1,4 @@
-### Hi there 👋, I'm ELVIS ⚡  
+
 
 <a href="https://www.linkedin.com/in/elvis-paz/">
   <img align="left" alt="Elvis LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,8 +16,7 @@
   <img align="left" alt="Elvis Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<br/>
-<br/>
+
 
 ---
 
