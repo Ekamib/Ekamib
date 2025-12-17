@@ -42,10 +42,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekamib&theme=gotham" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekamib&layout=compact&theme=gotham" alt="Top Languages" />
 </p>
 
