@@ -47,5 +47,5 @@
 
 ---
 
-> _“Code the market before the market codes you.”_  
-> — **Elvis Paz**
+> _“---------------”_  
+> — **Elvis Paz - computer engineer** 
