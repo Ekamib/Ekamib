@@ -1,7 +1,4 @@
 
-
-
-
 <a href="https://t.me/elvispazx">
   <img align="left" alt="Elvis Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
@@ -31,21 +28,8 @@
 ---
 
 ## 🚀 Featured Projects  
+--->
+--->
+> _“==================================”_  
+> — **Elvis Paz - computer engineer**
 
-
-
----
-
-
-
-## 📊 GitHub Stats  
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekamib&layout=compact&theme=gotham" alt="Top Languages" />
-</p>
-
----
-
-> _“---------------”_  
-> — **Elvis Paz - computer engineer** 
