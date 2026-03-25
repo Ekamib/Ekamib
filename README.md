@@ -31,5 +31,5 @@
 --->
 --->
 > _“==================================”_  
-> — **Elvis Paz - computer engineer**
+> — **computer engineer**
 
