@@ -1,20 +1,6 @@
 
-<a href="https://t.me/elvispazx">
-  <img align="left" alt="Elvis Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-<a href="https://twitter.com/elvispazx">
-  <img align="left" alt="Elvis Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="mailto:elvisgustavop03@gmail.com">
-  <img align="left" alt="Elvis Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 
 Computer Engineer | Backend & FinTech
-
-
-## 🧠   
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
