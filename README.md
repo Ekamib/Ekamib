@@ -13,7 +13,7 @@
 
 
 ## 🧠   
-
+Computer Engineer | Backend & FinTech
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -26,9 +26,4 @@
 
 ---
 
-## 🚀 Featured Projects  
---->
---->
-> _“==================================”_  
-> — **computer engineer**
 
