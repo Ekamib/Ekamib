@@ -1,6 +1,6 @@
 
 
-Computer Engineer | Backend & FinTech
+Computer Engineer | FinTech
 
 
 <img align="rigth" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
