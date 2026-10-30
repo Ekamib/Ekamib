@@ -7,7 +7,6 @@ Computer Engineer | FinTech
 
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot)
